@@ -18,3 +18,6 @@ def hello_world():
 @app.route('/alberto')
 def alberto():
     return render_template('index.html')
+
+# Task 5: GitHub Repo
+# https://github.com/alberto93927/CST_205_lab_15
